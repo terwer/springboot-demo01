@@ -1,0 +1,10 @@
+server:
+  port: 8090
+
+person:
+  id: 2
+  name: lisi
+  hobby: [旅游,休息,看书]
+  family: [fathor,mother]
+  map: {k1: v1,k2: v2}
+  pet: {type: cat,name: no}
